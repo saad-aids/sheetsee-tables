@@ -292,6 +292,10 @@ Click the header once to sort ascending, again for descending.
 | Columns not sorting | `<th>` missing `tHeader` class | Add `class="tHeader"` to every sortable `<th>` |
 | Data from Google Sheet not loading | Sheet not published publicly | Go to File → Share → Publish to web and republish |
 
+
+docs: add setup guide
+
+closes jlord/sheetsee-tables#24
 ---
 
 ## Contributing
